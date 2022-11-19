@@ -7,3 +7,8 @@ My name is Savus. I am a front desk receptionist at a motel. I work the graveyar
 1. HTML
 2. CSS
 3. Git and command line
+
+## What I've Done So Far
+
+Included in this repo is a zipped file of some of the projects I've
+completed over the course of my time spent with Devslopes.
