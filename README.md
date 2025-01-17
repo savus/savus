@@ -10,5 +10,4 @@ My name is Savus. I am a front desk receptionist at a motel. I work the graveyar
 
 ## What I've Done So Far
 
-Included in this repo is a zipped file of some of the projects I've
-completed over the course of my time spent with Devslopes.
+I have worked on several personal and academic courses over the past few years.
