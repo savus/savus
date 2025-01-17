@@ -6,7 +6,8 @@ My name is Savus. I am a front desk receptionist at a motel. I work the graveyar
 
 1. HTML
 2. CSS
-3. Git and command line
+3. Javascript
+4. React
 
 ## What I've Done So Far
 
