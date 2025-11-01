@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Justin. I am a front desk receptionist at a motel. I work the graveyard shift, and have for about ten years. I am also enrolled in the Devslopes web development course.
+My name is Justin. I am a front desk receptionist at a motel. I work the graveyard shift, and have for about fourteen years. 
 
 ## What I'm Currently Learning
 
